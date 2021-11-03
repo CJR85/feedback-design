@@ -37,3 +37,8 @@
   width: 80px;
   margin: 0px 10px;
 }
+
+#emoji {
+  display: flex;
+  align-items: center;
+}
